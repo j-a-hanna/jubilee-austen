@@ -2,8 +2,8 @@
 
 ## 📸 Project Screenshot
 
-![Jubilee Austen Homepage 1](images/jubilee-austen-homepage1.png)
-![Jubilee Austen Homepage 2](images/jubilee-austen-homepage2.png)
+![Jubilee Austen Homepage 1](img/jubilee-austen-homepage1.png)
+![Jubilee Austen Homepage 2](img/jubilee-austen-homepage2.png)
 
 
 ## 📚 Learning
