@@ -1,15 +1,21 @@
 # jubilee-austen
 
-📚 Learning
+## 📸 Project Screenshot
 
-    practice using HTML5 and CSS3 to make a static portfolio web page
+![Jubilee Austen Homepage 1](images/jubilee-austen-homepage1.png)
+![Jubilee Austen Homepage 2](images/jubilee-austen-homepage2.png)
 
-💻 Technologies Used
 
-    HTML5 / CSS3
+## 📚 Learning
 
-    Git / GitHub for version control
+practice using HTML5 and CSS3 to make a static portfolio web page
 
-✍️ Author
+## 💻 Technologies Used
+
+HTML5 / CSS3
+
+Git / GitHub for version control
+
+## ✍️ Author
 
 Jeanette Attia Hanna
